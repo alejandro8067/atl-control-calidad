@@ -131,7 +131,7 @@ Se imprime el resultado con dos cifras decimales usando `printf`.
 
 ### 15. Validación del resultado
 ```java
-if (resultadoFinal >= 70) {
+if (resultadoFinal >= 90) {
   System.out.println("🎉 ¡Aprobado! Cumple con el control de calidad.");
 } else {
   System.out.println("❌ No aprobado. No cumple con el control de calidad.");
