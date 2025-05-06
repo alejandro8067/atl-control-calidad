@@ -38,7 +38,7 @@ Cada valor ingresado se multiplica por su **ponderación** correspondiente.
 ---
 
 ### 4. **Resultado Final**
-El sistema muestra el total acumulado en porcentaje y valida si se cumple con el **mínimo del 70%** para aprobar el control de calidad.
+El sistema muestra el total acumulado en porcentaje y valida si se cumple con el **mínimo del 90%** para aprobar el control de calidad.
 
 ---
 
