@@ -44,7 +44,7 @@ public class ControlCalidad {
 
         System.out.printf("\n✅ Evaluación final: %.2f%%\n", total);
 
-        if (total >= 70) {
+        if (total >= 90) {
             System.out.println("🎉 ¡Aprobado! Cumple con el control de calidad.");
         } else {
             System.out.println("❌ No aprobado. No cumple con el mínimo requerido para el control de calidad.");
